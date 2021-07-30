@@ -21,6 +21,11 @@ to check dart is install or not type `dart --version`
 - String = "Arun"
 - List = [12,45,23] (Array)
 
+- **var** keyword can be anything like int,double etc
+- **dynamic** keyword can change its datatype
+- **const** constant variable
+- **final** runtime constant variable
+
 **Rules**
 
 - first character of vaiable should always be an alphabets
