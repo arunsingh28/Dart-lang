@@ -24,4 +24,10 @@ void main() {
   1 != 1;
   1 <= 1;
   1 >= 1;
+
+  // bollean
+  /**
+   * dsfsdf
+   * @override asdfasd
+   */
 }
